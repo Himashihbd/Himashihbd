@@ -41,6 +41,12 @@
 <a href="https://fb.com/himashibuddhini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himashibuddhini" height="40" width="50" /></a>
 </p>
 
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Support 🤝 </h3>
+<img align="right" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+
+<p><a href="https://www.buymeacoffee.com/yes"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yes" /></a></p><br><br>
+
 ---
 Credit: [Himashihbd](https://github.com/Himashihbd))
 
