@@ -40,7 +40,7 @@
 <h2 font-weight="bold">🤝Connect With Me</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="himashibuddhini" ></a>
+<a href="https://www.linkedin.com/in/himashi-dasanayake-112339330/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="himashibuddhini" ></a>
 <a href="https://fb.com/himashibuddhini" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="himashibuddhini" ></a>
 </p>
 
